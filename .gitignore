@@ -1,0 +1,6 @@
+#Wordpress not needed
+
+/wp
+
+.DS_Store
+cashewtree.code-workspace
